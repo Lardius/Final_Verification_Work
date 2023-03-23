@@ -1,0 +1,15 @@
+D:\Training\final verification work\bin\Debug\net6.0\final verification work.exe
+D:\Training\final verification work\bin\Debug\net6.0\final verification work.deps.json
+D:\Training\final verification work\bin\Debug\net6.0\final verification work.runtimeconfig.json
+D:\Training\final verification work\bin\Debug\net6.0\final verification work.dll
+D:\Training\final verification work\bin\Debug\net6.0\final verification work.pdb
+D:\Training\final verification work\obj\Debug\net6.0\final verification work.csproj.AssemblyReference.cache
+D:\Training\final verification work\obj\Debug\net6.0\final verification work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\final verification work\obj\Debug\net6.0\final verification work.AssemblyInfoInputs.cache
+D:\Training\final verification work\obj\Debug\net6.0\final verification work.AssemblyInfo.cs
+D:\Training\final verification work\obj\Debug\net6.0\final verification work.csproj.CoreCompileInputs.cache
+D:\Training\final verification work\obj\Debug\net6.0\final verification work.dll
+D:\Training\final verification work\obj\Debug\net6.0\refint\final verification work.dll
+D:\Training\final verification work\obj\Debug\net6.0\final verification work.pdb
+D:\Training\final verification work\obj\Debug\net6.0\final verification work.genruntimeconfig.cache
+D:\Training\final verification work\obj\Debug\net6.0\ref\final verification work.dll
